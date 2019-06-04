@@ -1,0 +1,6 @@
+Год Марка Модель Класс Кузов
+2005 Nissan 350z A Sport
+1990 Toyota Crown D Universal
+2006 Lexus Lx-400 B Sedan
+2000 Lada 2107 F Sedan
+2015 Subaru Outlander B Crossover
